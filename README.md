@@ -46,7 +46,7 @@ venv\Scripts\activate  # Windows
    Navigate to `http://127.0.0.1:5000`
 
 ## Project Structure
-
+```
 mailease-flask-app/
 │
 ├── templates/
@@ -58,6 +58,7 @@ mailease-flask-app/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 🛠 Tech Stack
 
@@ -67,10 +68,11 @@ mailease-flask-app/
 - Gmail SMTP
 
 ## 👩‍💻 Author
-
+```
 Akshitha C H
 Final year Computer Science Engineering Student
 📍 St. Joseph Engineering College, Mangalore
+```
 
 ## 📜 License
 
